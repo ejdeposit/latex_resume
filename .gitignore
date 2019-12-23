@@ -1,0 +1,5 @@
+# git ignore for latex files
+*.pdf
+*.log
+*.synctex.gz
+*.aux
