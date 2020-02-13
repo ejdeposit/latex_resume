@@ -6,8 +6,10 @@ INPUT /Users/evandeposit/Documents/job_applications/latex_resume/resume.tex
 OUTPUT /Users/evandeposit/Documents/job_applications/latex_resume/resume.log
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
@@ -23,7 +25,6 @@ INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /Users/evandeposit/Documents/job_applications/latex_resume/resume.aux
 INPUT /Users/evandeposit/Documents/job_applications/latex_resume/resume.aux
 OUTPUT /Users/evandeposit/Documents/job_applications/latex_resume/resume.aux
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
