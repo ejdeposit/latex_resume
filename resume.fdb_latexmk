@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1620941224 "/Users/evandeposit/local_repos/latex_resume/resume.tex" "/Users/evandeposit/local_repos/latex_resume/resume.pdf" "resume" 1620941224
-  "/Users/evandeposit/local_repos/latex_resume/resume.aux" 1620941224 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "/Users/evandeposit/local_repos/latex_resume/resume.tex" 1620941223 5883 38b4acc52cfbfe8341d8907a58cd8706 ""
+["pdflatex"] 1620941349 "/Users/evandeposit/local_repos/latex_resume/resume.tex" "/Users/evandeposit/local_repos/latex_resume/resume.pdf" "resume" 1620941350
+  "/Users/evandeposit/local_repos/latex_resume/resume.aux" 1620941350 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "/Users/evandeposit/local_repos/latex_resume/resume.tex" 1620941342 5883 b29fa51b9a4dc08d00fc0a35d7c623d0 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -62,13 +62,13 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1586288259 2432462 fd0fa20e9a3cb5f8169fd0ba1c955158 ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "resume.aux" 1620941224 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "resume.out" 1620941224 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume.tex" 1620941223 5883 38b4acc52cfbfe8341d8907a58cd8706 ""
+  "resume.aux" 1620941350 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "resume.out" 1620941350 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume.tex" 1620941342 5883 b29fa51b9a4dc08d00fc0a35d7c623d0 ""
   (generated)
-  "resume.out"
   "resume.pdf"
-  "/Users/evandeposit/local_repos/latex_resume/resume.pdf"
-  "resume.log"
   "resume.aux"
+  "resume.log"
   "/Users/evandeposit/local_repos/latex_resume/resume.log"
+  "/Users/evandeposit/local_repos/latex_resume/resume.pdf"
+  "resume.out"
